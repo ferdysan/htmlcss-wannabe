@@ -70,6 +70,7 @@ img{
   clear:both;
 }
 
+/*INIZIO CODICE PER DISPOSITIVI CON SCHERMO INFERIORE A 420PX*/
 @media screen and (max-width: 420px){
 
   #lezioni .row > .left, #lezioni .row > .right{
